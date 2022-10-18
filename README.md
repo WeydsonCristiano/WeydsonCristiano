@@ -4,6 +4,8 @@ Oi meu nome é Weydson Cristiano !
 *🌍 Estou sediado em Belo Horizonte MG 
 
 <a href="https://files.fm/f/epsw3h2ru"><img src="https://files.fm/thumb.php?i=6zwn9bsam"></a>
+</br>
+![](https://komarev.com/ghpvc/?username=weydsoncristiano-github-username&color=blueviolet)
 
 *✉️ Você pode entrar em contato comigo em (weydsoncristiano@hotmail.com)
 
@@ -28,3 +30,4 @@ Eu sou Secretamente o piloto dublê da Franquia Velozes e Furiosos. (mais não c
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeydsonCristiano&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeydsonCristiano&layout=compact)](https://github.com/WeydsonCristiano/github-readme-stats)
+
