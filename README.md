@@ -28,8 +28,3 @@ Eu sou Secretamente o piloto dublê da Franquia Velozes e Furiosos. (mais não c
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeydsonCristiano&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeydsonCristiano&layout=compact)](https://github.com/WeydsonCristiano/github-readme-stats)
-
-<!-- Inicia codigo Contador -->
-<figure><div><a title="Contador de Visitas" href="https://www.informaticaja.com.br/ferramenta/contador-de-visitas/"><figure><img src="https://contador-gratis.com/contadores-de-visitas/181022073305214.gif" alt="Contador de visitas"></a><figcaption><a href="https://calendariodoano.com.br/ferramenta/contador-de-dias-calculadora-prazo-entre-datas/" target="_blank">Calcula prazo</a></figcaption></div></figure>
-<!-- Fim do codigo Contador -->
-
