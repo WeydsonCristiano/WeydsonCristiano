@@ -2,8 +2,6 @@ Oi meu nome é Weydson Cristiano !
 
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 *🌍 Estou sediado em Belo Horizonte MG 
-
-<a href="https://files.fm/f/epsw3h2ru"><img src="https://files.fm/thumb.php?i=6zwn9bsam"></a>
 </br>
 ![](https://komarev.com/ghpvc/?username=weydsoncristiano-github-username&color=blueviolet)
 
