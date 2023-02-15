@@ -1,11 +1,12 @@
 Oi meu nome é Weydson Cristiano !
 
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-*🌍 Estou sediado em Belo Horizonte MG 
+*🌍 Sou de Belo Horizonte MG 
 </br>
 ![](https://komarev.com/ghpvc/?username=weydsoncristiano-github-username&color=blueviolet)
 
 *✉️ Você pode entrar em contato comigo em (weydsoncristiano@hotmail.com)
+Ou se preferir Gmail (weydsoncristiano20@gmail.com).
 
 
 ### Habilidades  
