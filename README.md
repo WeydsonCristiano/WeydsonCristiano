@@ -45,6 +45,8 @@ Projeto que mais gostei de fazer em Front-End.
 
 Eu sou Secretamente o piloto dublê da Franquia Velozes e Furiosos. (mais não conta pra ninguém viu)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WeydsonCristiano&theme=tokyonight" alt="mystreak"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeydsonCristiano&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeydsonCristiano&layout=compact&theme=radical)](https://github.com/WeydsonCristiano/github-readme-statst)
 
