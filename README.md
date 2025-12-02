@@ -8,7 +8,6 @@ Oi meu nome é Weydson Cristiano !
 ![](https://komarev.com/ghpvc/?username=weydsoncristiano-github-username&color=blueviolet)
 
 *✉️ Você pode entrar em contato comigo em (weydsoncristiano@hotmail.com)
-Ou se preferir Gmail (weydsoncristiano20@gmail.com).
 
 Projeto que mais gostei de fazer em Front-End.
 
